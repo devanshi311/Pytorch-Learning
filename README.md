@@ -1,2 +1,2 @@
-# JAVASCRIPT
-For js deep learing 
+# DL
+For deep learing 
